@@ -19,6 +19,7 @@
     font-size: 30px;
     font-weight: 600;
     color: #4D4D4D;
+    margin-left: 70px;
 }
 
 .container_clientes p {
@@ -30,12 +31,13 @@
     font-family: 400;
     color: #717171;
     margin-top: 12px;
+    margin-left: 80px;
 }
 
 .container_logos {
     width: 1001.87px;
     height: 68.21px;
-    margin-left:280px;
+    margin-left:325px;
     margin-top: 15.2px;
     flex-direction: row;
     gap: 70px;

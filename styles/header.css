@@ -1,3 +1,4 @@
+
 #cabecalho {
     display: flex;
     flex-direction: row;
@@ -41,7 +42,7 @@
         height: 5vh;
         display: flex;
         align-items: center;
-        gap: 50px;
+        gap: 70px;
         list-style-type: none;
         margin-left: 30%;
     }

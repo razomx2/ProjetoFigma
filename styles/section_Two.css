@@ -34,17 +34,16 @@
 
 .img_community {
     width: 100%;
-    margin-left: -1050px;
+    margin-left: -1170px;
     margin-top: 500px;
     flex-direction: row;
 }
 
 .img_community img {
-    width: 130px;
+    width: 150px;
     height: 16=75.21px;
     flex-direction: row;
-    margin-left: 19%;
-    
+    margin-left: 19%;  
 }
 
 .paragrafo_container {
@@ -53,9 +52,9 @@
     text-align: center;
     align-items: flex-start;
     width: 1400px;
-    gap: 270px;
+    gap: 240px;
     font-weight: 400;
     margin-top: 12px;
-    margin-left: 220px;
+    margin-left: 290px;
     color: #717171;
 }
