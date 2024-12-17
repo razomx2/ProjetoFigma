@@ -1,5 +1,5 @@
 .section_tree{  
-    border: 3px solid black;
+ 
     width: 100%;
     height: 70vh;
     margin-top: 3rem;
@@ -8,12 +8,12 @@
 }
 
 .section_tree_img {
-    border: 3px solid green;
+ 
     width: 20%;
 }
 
 .container_section_tree {
-    border: 3px solid red;
+
     width: 100%;
     height: 35vh;
     max-width: 1400px;
