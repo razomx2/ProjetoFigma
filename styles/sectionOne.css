@@ -1,46 +1,52 @@
 #our_clients {
-    width: 1610px;
-    height: 150.92px;
-    padding: 0;
-    margin: 0;
-    margin-top: 70px;
-    margin-left: 70px;
+    border: 3px solid green;
+    width: 100%;
+    height: 28vh;
+    margin-top: 2rem;
 }
 
 .container_clients {
-    width: 772.64px;
-    height: 53.57px;
+    border: 3px solid black;
+   width: 100%;
+   height: 10vh;
+   display: flex;
+   justify-content: cent;
 }
 
 .container_clientes h1 {
+    border: 3px solid blue;
+    display: flex;
     align-items: center;
     justify-content: center;
     text-align: center;
     font-size: 30px;
     font-weight: 600;
     color: #4D4D4D;
-    margin-left: 70px;
+    
 }
 
 .container_clientes p {
-    align-items: center;
+    border: 3px solid black;
+    width: 100%;
+    display: flex;
     justify-content: center;
+    align-items: center;
     text-align: center;
     font-size: 16px;
     height: 17px;
     font-family: 400;
     color: #717171;
     margin-top: 12px;
-    margin-left: 80px;
 }
 
 .container_logos {
-    width: 1001.87px;
-    height: 68.21px;
-    margin-left:325px;
+    border: 3px solid yellow;
+    width: 100%;
+    height: 10vh;
     margin-top: 15.2px;
-    flex-direction: row;
-    gap: 70px;
+    gap: 40px;
+    display: flex;
+    justify-content: center;
 }
 
 .container_logos img{
