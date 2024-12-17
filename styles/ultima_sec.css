@@ -1,3 +1,61 @@
 #projetos{
+<<<<<<< Updated upstream
     width: 100%;
+=======
+    border: 5px solid black;
+    margin: 0;
+    padding: 0;
+    width: 1600px;
+    height: 450px;
+   
+}
+
+.projetos_principal{
+    display: flex;
+    width: 100%;
+    justify-content: center; 
+}
+
+.projetos_principal_imagem{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 20px;
+    
+}
+.projetos_principal_imagem img{
+    width: 30%;
+    border-radius: 5%;
+    cursor: pointer;
+    opacity: 0.5;
+    transition: 0.8s;
+    gap: 20px;
+}
+.projetos_principal_imagem img:hover{
+    opacity: 1;
+}
+.projetos_principal {
+    width: 772.64px;
+    height: 53.57px;
+}
+
+.projetos_principal_titulos h1 {
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    font-size: 30px;
+    font-weight: 600;
+    color: #4D4D4D;
+}
+
+.container_clientes span {
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    font-size: 16px;
+    height: 17px;
+    font-family: 400;
+    color: #717171;
+    margin-top: 12px;
+>>>>>>> Stashed changes
 }
