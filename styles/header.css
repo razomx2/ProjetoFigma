@@ -45,6 +45,7 @@
         margin-left: 30%;
     }
     
+
     .cabecalho_button button{
         background-color: #2194F3;
         color: #fff;
@@ -54,4 +55,11 @@
         margin-top: 3px;
         border: none;
         font-size: 1rem;
+        flex: 1;
+        transition: all 1s ease;
+    }
+
+    .cabecalho_button button :hover{
+        flex: 2;
+        background-color: #2194F3;
     }
